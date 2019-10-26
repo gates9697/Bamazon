@@ -12,13 +12,13 @@ CREATE TABLE products (
 );
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES  ("Grand Theft Auto V", "Video Games", 49.95, 150),
-  ("NBA 2k20", "Video Games", 59.99, 200),
-  ("Top Ramen", "Food and Drink", .99, 50),
-  ("True Religion", "Apparel", 175.00, 5),
-  ("Levi's Brand Jeans", "Apparel", 54.25, 35),
-  ("Body Wash", "Necessities", 7.99, 42),
-  ("SAW 2", "Films", 7.00, 25),
-  ("Kill Bill", "Films", 3.50, 57),
-  ("Candyland", "Board Games", 24.50, 35),
-  ("Monopoly", "Board Games", 12.95, 23);
+VALUES  ("Grand Theft Auto V", "Video Games", 49.95, 80),
+  ("NBA 2k20", "Video Games", 59.99, 80),
+  ("Top Ramen", "Food and Drink", .99, 100),
+  ("True Religion", "Apparel", 175.00, 50),
+  ("Levi's Brand Jeans", "Apparel", 54.25, 50),
+  ("Body Wash", "Necessities", 7.99, 20),
+  ("SAW 2", "Films", 7.00, 15),
+  ("Kill Bill", "Films", 3.50, 20),
+  ("Candyland", "Board Games", 24.50, 10),
+  ("Monopoly", "Board Games", 12.95, 15);
